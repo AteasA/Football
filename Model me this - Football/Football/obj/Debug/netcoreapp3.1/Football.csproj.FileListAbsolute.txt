@@ -1,0 +1,13 @@
+C:\Users\Teo\Documents\Университет\C #\Model me this - Football\Football\bin\Debug\netcoreapp3.1\Football.exe
+C:\Users\Teo\Documents\Университет\C #\Model me this - Football\Football\bin\Debug\netcoreapp3.1\Football.deps.json
+C:\Users\Teo\Documents\Университет\C #\Model me this - Football\Football\bin\Debug\netcoreapp3.1\Football.runtimeconfig.json
+C:\Users\Teo\Documents\Университет\C #\Model me this - Football\Football\bin\Debug\netcoreapp3.1\Football.runtimeconfig.dev.json
+C:\Users\Teo\Documents\Университет\C #\Model me this - Football\Football\bin\Debug\netcoreapp3.1\Football.dll
+C:\Users\Teo\Documents\Университет\C #\Model me this - Football\Football\bin\Debug\netcoreapp3.1\Football.pdb
+C:\Users\Teo\Documents\Университет\C #\Model me this - Football\Football\obj\Debug\netcoreapp3.1\Football.csprojAssemblyReference.cache
+C:\Users\Teo\Documents\Университет\C #\Model me this - Football\Football\obj\Debug\netcoreapp3.1\Football.csproj.CoreCompileInputs.cache
+C:\Users\Teo\Documents\Университет\C #\Model me this - Football\Football\obj\Debug\netcoreapp3.1\Football.AssemblyInfoInputs.cache
+C:\Users\Teo\Documents\Университет\C #\Model me this - Football\Football\obj\Debug\netcoreapp3.1\Football.AssemblyInfo.cs
+C:\Users\Teo\Documents\Университет\C #\Model me this - Football\Football\obj\Debug\netcoreapp3.1\Football.dll
+C:\Users\Teo\Documents\Университет\C #\Model me this - Football\Football\obj\Debug\netcoreapp3.1\Football.pdb
+C:\Users\Teo\Documents\Университет\C #\Model me this - Football\Football\obj\Debug\netcoreapp3.1\Football.genruntimeconfig.cache
